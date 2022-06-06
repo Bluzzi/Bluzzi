@@ -11,5 +11,5 @@ Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I wo
 
 # 📬 Contact
 - [Camilledugas.pro@gmail.com](mailto:camilledugas.pro@gmail.com)
-- [Twitter](https://twitter.com/Bluzzi_)
+- <a href="https://twitter.com/Bluzzi_" target="_blank">Twitter</a>
 - Discord (Bluzzi#2000)
