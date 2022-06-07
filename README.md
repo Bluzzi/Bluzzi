@@ -1,7 +1,7 @@
 # 🤔 About me
-Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I work mainly with the technologies proposed by the NodeJS universe.
+Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I mainly work with the technologies proposed by the NodeJS universe.
 
-# 📚 Used technologies 
+# 📚 Technologies used 
 | Language          | Front-end | Back-end         | Database | Other tools |
 | ----------------- | --------- | ---------------- | -------- | ----------- |
 | TypeScript        | React     | Fastify (Rest)   | MongoDB  | Git         |
