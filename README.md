@@ -7,7 +7,7 @@ Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I ma
 | TypeScript        | React     | Fastify (Rest)   | MongoDB  | Git         |
 | JavaScript        | Svelte    | Apollo (GraphQL) | SQL      | Docker      |
 | HTML              | ThreeJS   | NextJS           |          | Unix        |
-| CSS/SCSS/Tailwind |           | Sockets          |          | ESLint      |
+| CSS/SCSS/Tailwind |           | Sockets          |          |             |
 
 # 📬 Contact
 - [Camilledugas.pro@gmail.com](mailto:camilledugas.pro@gmail.com)
