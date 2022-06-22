@@ -12,7 +12,7 @@ My field of skills is larger than the technologies displayed below, but these ar
 | CSS/SCSS/Tailwind |           | Sockets          |          |             |
 
 # 📬 Contact
-- <a href="https://www.linkedin.com/in/camille-dugas-821707242/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/camille-dugas" target="_blank">LinkedIn</a>
 - [Camilledugas.pro@gmail.com](mailto:camilledugas.pro@gmail.com)
 - <a href="https://twitter.com/Bluzzi_" target="_blank">Twitter</a>
 - Discord (Bluzzi#2000)
