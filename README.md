@@ -6,7 +6,7 @@ My field of skills is larger than the technologies displayed below, but these ar
 
 | Language          | Front-end | Back-end         | Database | Other tools |
 | ----------------- | --------- | ---------------- | -------- | ----------- |
-| TypeScript        | React     | Fastify (Rest)   | MongoDB  | Git         |
+| TypeScript        | React     | Fastify (REST)   | MongoDB  | Git         |
 | JavaScript        | Svelte    | Apollo (GraphQL) | SQL      | Docker      |
 | HTML              | ThreeJS   | NextJS           |          | Unix        |
 | CSS/SCSS/Tailwind |           | Sockets          |          |             |
