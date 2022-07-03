@@ -1,18 +1,21 @@
 # 🤔 About me
-Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I mainly work with the technologies proposed by the NodeJS universe.
+Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I mainly work with the technologies proposed by the NodeJS universe.   
+  
+The best way to discover me is to go on my [portfolio](https://camilledugas.me), you will find a description of me, the list of my skills, my main projects and various ways to contact me.
 
 # 📚 Technologies used 
-My field of skills is larger than the technologies displayed below, but these are the technologies that I like and that I want to work with. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
+Here is the list of technologies I like to work with on a daily basis. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
 
-| Language          | Front-end | Back-end         | Database | Other tools |
-| ----------------- | --------- | ---------------- | -------- | ----------- |
-| TypeScript        | React     | Fastify (REST)   | MongoDB  | Git         |
-| JavaScript        | Svelte    | Apollo (GraphQL) | SQL      | Docker      |
-| HTML              | ThreeJS   | NextJS           |          | Unix        |
-| CSS/SCSS/Tailwind |           | Sockets          |          |             |
+| Language              | Front-end | Back-end          | Database   | Other tools |
+| --------------------- | --------- | ----------------- | ---------- | ----------- |
+| TypeScript/JavaScript | React     | Fastify (REST)    | MongoDB    | Git/GitHub  |
+| HTML                  | Svelte    | Apollo (GraphQL)  | PostgreSQL | Docker      |
+| CSS/SCSS/Tailwind     | ThreeJS   | NextJS (w/ React) |            | Unix        |
+| PHP                   |           | Sockets           |            |             |
 
 # 📬 Contact
-- <a href="https://www.linkedin.com/in/camille-dugas" target="_blank">LinkedIn</a>
+- [Portfolio](https://camilledugas.me)
+- [LinkedIn](https://www.linkedin.com/in/camille-dugas)
 - [Camilledugas.pro@gmail.com](mailto:camilledugas.pro@gmail.com)
-- <a href="https://twitter.com/Bluzzi_" target="_blank">Twitter</a>
+- [Twitter](https://twitter.com/Bluzzi_)
 - Discord (Bluzzi#2000)
