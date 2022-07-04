@@ -18,4 +18,4 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 - [LinkedIn](https://www.linkedin.com/in/camille-dugas)
 - [Camilledugas.pro@gmail.com](mailto:camilledugas.pro@gmail.com)
 - [Twitter](https://twitter.com/Bluzzi_)
-- Discord (Bluzzi#2000)
+- [Discord Bluzzi#2000](https://discord.com/users/233351173665456129)
