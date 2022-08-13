@@ -10,8 +10,9 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | --------------------- | --------- | ----------------- | ---------- | ----------- |
 | TypeScript/JavaScript | React     | Fastify (REST)    | MongoDB    | Git/GitHub  |
 | HTML                  | Svelte    | Apollo (GraphQL)  | PostgreSQL | Docker      |
-| CSS/SCSS/Tailwind     | ThreeJS   | NextJS (w/ React) |            | Unix        |
-| PHP                   |           | Sockets           |            | AWS/GCP     |
+| CSS/SCSS/Tailwind     | ThreeJS   | NextJS (w/ React) |            | AWS/GCP     |
+| PHP                   |           | Sockets           |            | Unix        |
+|                       |           |                   |            | ESLint      |
 
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
