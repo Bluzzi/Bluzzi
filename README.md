@@ -19,6 +19,8 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | PHP                   |           | Sockets           |            | Unix        |
 |                       |           |                   |            | ESLint      |
 
+# What I am working on ?
+
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
 - [LinkedIn](https://www.linkedin.com/in/camille-dugas)
