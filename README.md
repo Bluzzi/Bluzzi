@@ -1,10 +1,6 @@
 # 🤔 About me
 Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I mainly work with the technologies proposed by the NodeJS universe.   
 
-Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
-- [Goscord](https://github.com/Goscord), a Discord API wrapper written in Golang
-- [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various repositories in order to increase our skills
-
   
 The best way to discover me is to go on my [portfolio](https://camilledugas.me), you will find a description of me, the list of my skills, my main projects and various ways to contact me.
 
@@ -19,7 +15,10 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | PHP                   |           | Sockets           |            | Unix        |
 |                       |           |                   |            | ESLint      |
 
-# What I am working on ?
+# 🛠️ What I am working on ?
+Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
+- [Goscord](https://github.com/Goscord), a Discord API wrapper written in Golang
+- [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various repositories in order to increase our skills
 
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
