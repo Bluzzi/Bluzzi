@@ -15,7 +15,7 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | PHP                   |           | Sockets           |            | Unix        |
 |                       |           |                   |            | ESLint      |
 
-# 🛠️ What I am working on ?
+# 🛠️ What am I working on ?
 Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
 - [Goscord](https://github.com/Goscord), a Discord API wrapper written in Golang
 - [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various repositories in order to increase our skills
