@@ -7,12 +7,13 @@ The best way to discover me is to go on my [portfolio](https://camilledugas.me),
 # 📚 Technologies used 
 Here is the list of technologies I like to work with on a daily basis. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
 
-| Language              | Front-end | Back-end          | Database   | DevOps & Tools  |
-| --------------------- | --------- | ----------------- | ---------- | --------------- |
-| TypeScript/JavaScript | React     | Fastify (REST)    | PostgreSQL | Git/GitHub      |
-| HTML                  | Svelte    | Apollo (GraphQL)  | MongoDB    | Docker          |
-| CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React) |            | Railway         |
-| PHP                   |           | WebSocket         |            |                 |
+| Language              | Front-end | Back-end              | Database   | DevOps & Tools  |
+| --------------------- | --------- | --------------------- | ---------- | --------------- |
+| TypeScript/JavaScript | React     | Fastify (REST)        | PostgreSQL | Git/GitHub      |
+| HTML                  | Svelte    | Nest (REST/GraphQL)   | MongoDB    | Docker          |
+| CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React)     |            | Railway         |
+| PHP                   |           | SvelteKit (w/ Svelte) |            |                 |
+|                       |           | WebSocket             |            |                 |
 
 # 🛠️ What am I working on ?
 Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
