@@ -10,7 +10,7 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | Language              | Front-end | Back-end              | Database   | DevOps & Tools  |
 | --------------------- | --------- | --------------------- | ---------- | --------------- |
 | TypeScript/JavaScript | React     | Fastify (REST)        | PostgreSQL | Git/GitHub      |
-| HTML                  | Svelte    | Nest (REST/GraphQL)   | MongoDB    | Docker          |
+| HTML                  | Svelte    | NestJS (REST/GraphQL) | MongoDB    | Docker          |
 | CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React)     |            | Railway         |
 | PHP                   |           | SvelteKit (w/ Svelte) |            |                 |
 |                       |           | WebSocket             |            |                 |
