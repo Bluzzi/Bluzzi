@@ -11,8 +11,8 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 | --------------------- | --------- | ----------------- | ---------- | --------------- |
 | TypeScript/JavaScript | React     | Fastify (REST)    | MongoDB    | Git/GitHub      |
 | HTML                  | Svelte    | Apollo (GraphQL)  | PostgreSQL | Docker          |
-| CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React) |            | AWS/GCP/Railway |
-| PHP                   |           | Sockets           |            | Unix            |
+| CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React) |            | Railway         |
+| PHP                   |           | Sockets           |            |                 |
 
 # 🛠️ What am I working on ?
 Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
