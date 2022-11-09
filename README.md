@@ -1,9 +1,5 @@
 # 🤔 About me
-Hello! I'm Camille Dugas, a passionate full-stack web developer since 2016. I mainly work with the technologies proposed by the NodeJS universe.   
-
-The best way to discover me is to go on my [portfolio](https://camilledugas.me), you will find a description of me, the list of my skills, my main projects and various ways to contact me.
-
-Currently, I am strongly interested in the GraphQL ecosystem and code generation. 
+Hello! I'm Camille Dugas, a passionate back-end web developer since 2016. The best way to discover me is to go on my [portfolio](https://camilledugas.me).
 
 # 📚 Technologies used
 Here is the list of technologies I like to work with on a daily basis. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
