@@ -1,10 +1,10 @@
 # 🤔 About me
-Hello! I'm Camille Dugas, a passionate back-end web developer since 2016. The best way to discover me is to go on my [portfolio](https://camilledugas.me).
+Hello! I'm Camille Dugas, a passionate back-end web developer since 2016. More about me [here](https://camilledugas.me).
 
 # 📚 Technologies used
 Here is the list of the main technologies I use on a daily basis. I work mainly with NestJS.
 
-Currently I'm particularly interested in the GraphQL ecosystem and code generation because we shouldn't have to write and maintain documentions anymore, we should rather focus on features.
+Currently I'm particularly interested by the GraphQL ecosystem and code generation because we shouldn't have to write and maintain documentions anymore, we should rather focus on features.
 
 | Language   | Back-end              | Front-end         | Database   | Tools  |
 | ---------- | --------------------- | ----------------- | ---------- | ------ |
