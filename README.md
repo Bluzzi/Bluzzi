@@ -2,15 +2,16 @@
 Hello! I'm Camille Dugas, a passionate back-end web developer since 2016. The best way to discover me is to go on my [portfolio](https://camilledugas.me).
 
 # 📚 Technologies used
-Here is the list of technologies I like to work with on a daily basis. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
+Here is the list of the main technologies I use on a daily basis. I work mainly with NestJS.
 
-| Language              | Front-end | Back-end              | Database   | DevOps & Tools  |
-| --------------------- | --------- | --------------------- | ---------- | --------------- |
-| TypeScript/JavaScript | React     | Fastify (REST)        | PostgreSQL | Git/GitHub      |
-| HTML                  | Svelte    | NestJS (REST/GraphQL) | MongoDB    | Docker          |
-| CSS/SCSS/Tailwind     | Storybook | NextJS (w/ React)     |            | Railway         |
-| PHP                   |           | SvelteKit (w/ Svelte) |            |                 |
-|                       |           | WebSocket             |            |                 |
+Currently I'm particularly interested in the GraphQL ecosystem and code generation because we shouldn't have to write and maintain documentions anymore, we should rather focus on features.
+
+| Language   | Back-end              | Front-end         | Database   | Tools  |
+| ---------- | --------------------- | ----------------- | ---------- | ------ |
+| TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git    |
+| JavaScript | Fastify/Express       | NextJS (w/ React) | MongoDB    | Docker |
+|            | WebSocket             | Tailwind          |            |        |
+|            |                       | CSS/SCSS          |            |        |
 
 # 🛠️ What am I working on ?
 Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
