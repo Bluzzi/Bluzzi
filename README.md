@@ -14,9 +14,11 @@ Currently I'm particularly interested in the GraphQL ecosystem and code generati
 |            |                       | CSS/SCSS          |            |        |
 
 # 🛠️ What am I working on ?
-Currently, I work at Essential Tooth Box as a freelancer. I also work on two open source projects:
+Currently, I work at Essential Tooth Box as a freelancer. 
+
+I also work on two open source projects:
 - [Goscord](https://github.com/Goscord), a Discord API wrapper written in Golang
-- [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various projects in order to increase our skills
+- [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various projects
 
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
