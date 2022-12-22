@@ -6,19 +6,15 @@ Here is the list of the main technologies I use on a daily basis. I work mainly 
 
 Currently I'm particularly interested by the GraphQL ecosystem and code generation because we shouldn't have to write and maintain documentions anymore, we should rather focus on features.
 
-| Language   | Back-end              | Front-end         | Database   | Tools  |
-| ---------- | --------------------- | ----------------- | ---------- | ------ |
-| TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git    |
-| JavaScript | Fastify/Express       | NextJS (w/ React) | MongoDB    | Docker |
-|            | WebSocket             | Tailwind          |            |        |
-|            |                       | CSS/SCSS          |            |        |
+| Language   | Back-end              | Front-end         | Database   | Tools         |
+| ---------- | --------------------- | ----------------- | ---------- | ------------- |
+| TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git           |
+| JavaScript | Fastify/Express       | NextJS (w/ React) | MongoDB    | Docker        |
+|            | WebSocket             | Tailwind          |            | Vercel        |
+|            |                       | CSS/SCSS          |            | Railway       |
 
 # 🛠️ What am I working on ?
-Currently, I work at Essential Tooth Box as a freelancer. 
-
-I also work on two open source projects:
-- [Goscord](https://github.com/Goscord), a Discord API wrapper written in Golang
-- [Royaume](https://github.com/Virtual-Royaume), a French developer community, we work together on various projects
+Currently, I work at Essential Tooth Box as a freelancer. I also work on open source projects of a developer community: [Royaume](https://github.com/Virtual-Royaume).
 
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
