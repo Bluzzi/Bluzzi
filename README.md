@@ -10,8 +10,10 @@ Currently I'm particularly interested by the GraphQL ecosystem and code generati
 | ---------- | --------------------- | ----------------- | ---------- | ------------- |
 | TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git           |
 | JavaScript | Fastify/Express       | NextJS (w/ React) | MongoDB    | Docker        |
-|            | WebSocket             | Tailwind          |            | Vercel        |
-|            |                       | CSS/SCSS          |            | Railway       |
+|            | WebSocket             | CSS/SCSS/Tailwind |            | Vercel        |
+|            | OpenAPI/Swagger       | Zustand/Jotai     |            | Railway       |
+|            |                       | Testing Library   |            |               |
+|            |                       | Storybook         |            |               |
 
 # 🛠️ What am I working on ?
 Currently, I work at Essential Tooth Box as a freelancer. I also work on open source projects of a developer community: [Royaume](https://github.com/Virtual-Royaume).
