@@ -1,16 +1,14 @@
 # 🤔 About me
-Hello! I'm Camille Dugas, a passionate full-stack developer since 2016. More about me [here](https://camilledugas.me).
+Hello! I'm Camille Dugas, a full-stack developer since 2016. Specialized in the JavaScript ecosystem, I work mainly with the React and Next frameworks. 
+
+More about me [here](https://camilledugas.me).
 
 # 📚 Technologies used
-Here is the list of the main technologies I use everyday. I mainly work with React, NextJS and NestJS.
-
-Currently I'm particularly interested by the GraphQL ecosystem and code generation because we shouldn't have to write and maintain documentions anymore, we should rather focus on features.
-
 | Language   | Back-end              | Front-end         | Database   | Tools         |
 | ---------- | --------------------- | ----------------- | ---------- | ------------- |
 | TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git           |
-| JavaScript | Fastify/Express       | NextJS (w/ React) | MongoDB    | Docker        |
-|            | WebSocket             | CSS/SCSS/Tailwind |            | Vercel        |
+| JavaScript | Fastify/Express       | NextJS            | MongoDB    | Docker        |
+|            | WebSocket             | Sass/Tailwind     |            | Vercel        |
 |            | OpenAPI/Swagger       | Zustand/Jotai     |            | Railway       |
 |            |                       | Testing Library   |            |               |
 |            |                       | Storybook         |            |               |
