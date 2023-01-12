@@ -3,16 +3,6 @@ Hello! I'm Camille Dugas, a full-stack developer since 2016. Specialized in the 
 
 More about me [here](https://camilledugas.me).
 
-# 📚 Technologies used
-| Language   | Back-end              | Front-end         | Database   | Tools         |
-| ---------- | --------------------- | ----------------- | ---------- | ------------- |
-| TypeScript | NestJS (REST/GraphQL) | React             | PostgreSQL | Git           |
-| JavaScript | Fastify/Express       | NextJS            | MongoDB    | Docker        |
-|            | WebSocket             | Sass/Tailwind     |            | Vercel        |
-|            | OpenAPI/Swagger       | Zustand/Jotai     |            | Railway       |
-|            |                       | Testing Library   |            |               |
-|            |                       | Storybook         |            |               |
-
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
 - [LinkedIn](https://www.linkedin.com/in/camille-dugas)
