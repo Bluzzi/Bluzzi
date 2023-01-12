@@ -15,9 +15,6 @@ Currently I'm particularly interested by the GraphQL ecosystem and code generati
 |            |                       | Testing Library   |            |               |
 |            |                       | Storybook         |            |               |
 
-# 🛠️ What am I working on ?
-Currently, I work at Essential Tooth Box as a freelancer. I also work on open source projects of a developer community: [Royaume](https://github.com/Virtual-Royaume).
-
 # 📬 Contact
 - [Portfolio](https://camilledugas.me)
 - [LinkedIn](https://www.linkedin.com/in/camille-dugas)
